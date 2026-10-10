@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Furiko</title>
+        <item>
+            <title>0.0.1</title>
+            <pubDate>Sat, 10 Oct 2026 01:33:22 -0700</pubDate>
+            <link>https://pennowick.com/furiko/</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/furikoapp/furiko-releases/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### Added
+
+- Import a video file or a link
+- Trim and crop on a filmstrip
+- Export for wallpaper engines and Instagram, including 16:9 and 9:16 from one trim
+- One notice about your rights before you import
+- Privacy settings list every connection Furiko makes, and updates are checked automatically
+- Help menu: Send Feedback and Copy Diagnostics
+]]></description>
+            <enclosure url="https://github.com/furikoapp/furiko-releases/releases/download/v0.0.1/Furiko.dmg" length="212179486" type="application/octet-stream" sparkle:edSignature="K3IVLDIa30SA7egdkWU2a8sru0YcPpk1L+/940dBIq8UHE+DF2nINQawTArkg10D+T/geLnowHVbqD7Ef2cNCQ=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: lE4A87Z7M73aeRMEA/ykORohlWV0SGGYyy8O0RDFK5xAVA27K/G+3GRTn7q5bwU/VCSyvdMfWKqfjofBhLSoBQ==
+length: 1663
+-->
