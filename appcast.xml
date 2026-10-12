@@ -7,21 +7,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Furiko</title>
         <item>
             <title>0.0.2</title>
-            <pubDate>Mon, 12 Oct 2026 11:12:10 -0700</pubDate>
+            <pubDate>Mon, 12 Oct 2026 12:06:03 -0700</pubDate>
             <link>https://pennowick.com/furiko/</link>
             <sparkle:fullReleaseNotesLink>https://github.com/furikoapp/furiko-releases/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>4</sparkle:version>
+            <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>0.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[### Improved
 
 - Hardened how Furiko handles imported media, downloaded tools and updates. No changes to how you use the app.
 ]]></description>
-            <enclosure url="https://github.com/furikoapp/furiko-releases/releases/download/v0.0.2/Furiko.dmg" length="212162445" type="application/octet-stream" sparkle:edSignature="7P8Gv7/0RGAFU857EZD17iUx62GVkel9DCbEKqv+wFzrZGWBIYmqKXYke78hj4qupphqWkQkqxSx1Jpz6AFzBA=="/>
+            <enclosure url="https://github.com/furikoapp/furiko-releases/releases/download/v0.0.2/Furiko.dmg" length="212163891" type="application/octet-stream" sparkle:edSignature="6viCwkK0RKxOxCEO38PraYKEWaNTIsAS4hNE8Mm3vWVvOwVGXzvJq4Z2GXPgnKw/hTzcwmG8t8xN4aYbul9rDQ=="/>
         </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 6mQFBsfGB1wlyQ+/ZkCBy3EPBlKoUNh9A5q8y2mBORIVFb4blai5+GqoF7l618PFVpMvlKaXg0hmhYkh5TnKDA==
+edSignature: bJkiIxsYYw5REyM8+xfN6VVaz4FH6LLoy6jdHRv5YB3Z/vqJ7TIM/VL8UunaSb+GVkZrMIB7J4q795FhTx4wAg==
 length: 1432
 -->
